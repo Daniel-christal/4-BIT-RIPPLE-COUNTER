@@ -105,8 +105,3 @@ endmodule
 
 ## Result: 
 Thus the program executed succesfully.
-
-
-
-
-**RESULTS**
